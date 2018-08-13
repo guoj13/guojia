@@ -7,4 +7,8 @@ gfdhg
 gjfgj
 
 hkhg
+<<<<<<< HEAD
 gfhngfnfg
+=======
+ghfg
+>>>>>>> 9623aac303053d7f36e7eee009f69e586ab7a367
